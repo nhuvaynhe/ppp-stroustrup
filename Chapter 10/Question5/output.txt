@@ -1,0 +1,12 @@
+1992
+	January
+		1    0    61.5	ºF
+	February
+		1    1    64	ºF
+		2    2    65.2	ºF
+1993
+	February
+		1    12    65	ºF
+	December
+		1    23    64	ºF
+		2    5    80	ºF

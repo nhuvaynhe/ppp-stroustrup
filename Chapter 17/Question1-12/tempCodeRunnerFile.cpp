@@ -1,0 +1,1 @@
+    god->erase(p);
